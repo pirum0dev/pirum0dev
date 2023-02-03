@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+### I'm starting my journey in IT
 <!--
 **pirum0dev/pirum0dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
